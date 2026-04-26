@@ -1,1 +1,1 @@
-conflict line
+line from clone
